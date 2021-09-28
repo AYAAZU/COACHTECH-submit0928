@@ -412,7 +412,7 @@ small {
   }
 
   .top {
-    height: 370px;
+    height: 80vh;
     background-size: cover;
     background-position: 48% 0;
   }
@@ -426,6 +426,7 @@ small {
 
   .top__text--en {
     font-size: 16px;
+    margin-top: 30px;
   }
 
   .service__card {
